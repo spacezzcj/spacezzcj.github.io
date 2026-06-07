@@ -55,3 +55,42 @@
 .card-archives{
     display:none !important;
 }
+/* 作者信息 */
+.card-info{
+    display:none !important;
+}
+
+/* 统计 */
+.site-data{
+    display:none !important;
+}
+
+/* Follow Me */
+#card-info-btn{
+    display:none !important;
+}
+
+/* 公告 */
+.card-announcement{
+    display:none !important;
+}
+
+/* 最近文章 */
+.card-recent-post{
+    display:none !important;
+}
+
+/* 分类 */
+.card-categories{
+    display:none !important;
+}
+
+/* 标签 */
+.card-tags{
+    display:none !important;
+}
+
+/* 归档 */
+.card-archives{
+    display:none !important;
+}
