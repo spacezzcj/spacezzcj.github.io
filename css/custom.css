@@ -20,4 +20,38 @@
   border-radius: 15px;
   padding: 20px;
   margin: 20px 0;
+} 
+/* 隐藏侧边栏统计 */
+.site-data{
+    display:none !important;
+}
+
+/* 隐藏 Follow Me */
+#card-info-btn{
+    display:none !important;
+}
+
+/* 隐藏 Announcement */
+.card-announcement{
+    display:none !important;
+}
+
+/* 隐藏 Recent Posts */
+.card-recent-post{
+    display:none !important;
+}
+
+/* 隐藏 Categories */
+.card-categories{
+    display:none !important;
+}
+
+/* 隐藏 Tags */
+.card-tags{
+    display:none !important;
+}
+
+/* 隐藏 Archives */
+.card-archives{
+    display:none !important;
 }
